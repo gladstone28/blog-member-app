@@ -6,7 +6,9 @@ const MemberManagement = () => {
     { id: 1, name: 'John Doe', email: 'john@example.com' },
     { id: 2, name: 'Jane Smith', email: 'jane@example.com' },
     { id: 3, name: 'Gladstone Rose', email: 'gladstone28@hotmail.com' },
-    { id: 4, name: 'Jeaneth Rose', email: 'jeanethrose@yahoo.com' }
+    { id: 4, name: 'Jeaneth Rose', email: 'jeanethrose@yahoo.com' },
+    { id: 5, name: 'James Kerr', email: 'jwkerr@gmail.com' }
+
 
   ]);
 
